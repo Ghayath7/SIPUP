@@ -1,0 +1,7 @@
+# Programs.dat - Format: AppName|Version|DirectDownloadURL|Flag
+# Flag options: updatebysize (checks remote file size to mark "Available")
+Chrome|2.0|https://github.com/USERNAME/REPO/releases/download/v1.0/Chrome.exe|updatebysize
+VLC|3.0.18|https://github.com/USERNAME/REPO/releases/download/v1.0/VLC.exe|
+Notepad++|8.5.3|https://github.com/USERNAME/REPO/releases/download/v1.0/Notepad++.exe|
+7-Zip|22.01|https://github.com/USERNAME/REPO/releases/download/v1.0/7-Zip.exe|updatebysize
+Firefox|117.0|https://github.com/USERNAME/REPO/releases/download/v1.0/Firefox.exe|
