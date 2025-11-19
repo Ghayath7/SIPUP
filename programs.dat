@@ -1,10 +1,7 @@
-# Programs.dat - Format: AppName|Version|DirectDownloadURL|Flag
-# Flag options: 
-#   localversion  -> extract version from local file name
-#   onlineversion -> extract version from download URL
+# Programs.dat - Format: AppName|DirectDownloadURL
+# Version numbers are extracted automatically from local filename and download link
 ::---------------------------------------------------------------------------------
-Chrome|dummy|https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD8B6B20A-C037-C71E-AFA0-33475D286188%7D%26lang%3Den-GB%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe|localversion
-::---------------------------------------------------------------------------------
-VLC|dummy|https://get.videolan.org/vlc/last/win64/vlc-3.0.21-win64.exe|localversion
+Chrome|https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD8B6B20A-C037-C71E-AFA0-33475D286188%7D%26lang%3Den-GB%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe
+VLC|https://get.videolan.org/vlc/last/win64/vlc-3.0.21-win64.exe
 ::---------------------------------------------------------------------------------
 
