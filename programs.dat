@@ -1,7 +1,7 @@
 # Programs.dat - Format: AppName|Version|DirectDownloadURL|Flag
 # Flag options: updatebysize (checks remote file size to mark "Available")
-Chrome|2.0|https://github.com/USERNAME/REPO/releases/download/v1.0/Chrome.exe|updatebysize
-VLC|3.0.18|https://github.com/USERNAME/REPO/releases/download/v1.0/VLC.exe|
-Notepad++|8.5.3|https://github.com/USERNAME/REPO/releases/download/v1.0/Notepad++.exe|
-7-Zip|22.01|https://github.com/USERNAME/REPO/releases/download/v1.0/7-Zip.exe|updatebysize
-Firefox|117.0|https://github.com/USERNAME/REPO/releases/download/v1.0/Firefox.exe|
+::---------------------------------------------------------------------------------
+Chrome|2.0|https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD8B6B20A-C037-C71E-AFA0-33475D286188%7D%26lang%3Den-GB%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe|updatebysize
+::---------------------------------------------------------------------------------
+VLC|3.0.18|https://mirror.library.ucy.ac.cy/videolan/vlc/3.0.21/win64/vlc-3.0.21-win64.exe|
+::---------------------------------------------------------------------------------
